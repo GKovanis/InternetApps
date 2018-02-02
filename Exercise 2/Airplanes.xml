@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test2.xsl"?>
+
+
+<airplanes>
+  <airplane passengers="8" name="Millenium Falcon">
+    <year>1998</year>
+    <price>$150000.0</price>
+  </airplane>
+
+  <airplane passengers="12" name="Stormbringer">
+    <year>2005</year>
+    <price>$310000.00</price>
+  </airplane>
+
+  <airplane passengers="15" name="Imperial starship">
+    <year>2014</year>
+    <price>$600000.00</price>
+  </airplane>
+</airplanes>

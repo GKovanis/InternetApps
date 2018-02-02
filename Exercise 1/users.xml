@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<student>
+
+<details>
+<username>Thanos</username>
+<password>lalacrap</password>
+</details>
+
+<details>
+<username>Giorgos</username>
+<password>araxtoulis</password>
+</details>
+
+<details>
+<username>admin</username>
+<password>admin</password>
+</details>
+
+<details>
+<username>Orestis</username>
+<password>chang</password>
+</details>
+
+</student>

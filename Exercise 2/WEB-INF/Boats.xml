@@ -1,0 +1,25 @@
+<?xml version="1.0"?> 
+
+<!-- REFERENCE TO THE STYLESHEET: -->
+<!-- not present here, is prorgammatically arranged -->
+
+<Boats>
+  <boat length="7 Meters"  color="White">
+    <origin>England, London </origin>
+    <built>1984</built>
+    <website>oldboats.com</website>
+ </boat>
+
+  <boat length="18 Meters"  color="Black">
+    <origin>Spain, Valencia</origin>
+    <built>2007</built>
+    <website>spanishboats.com</website>
+ </boat>
+
+  <boat length="12 Meters"  color="Blue Navy">
+    <origin>England, Hertford</origin>
+    <built>2010</built>
+    <website>usedboats.com</website>
+ </boat>
+
+</Boats>

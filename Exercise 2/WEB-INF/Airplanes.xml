@@ -1,0 +1,26 @@
+<?xml version="1.0"?> 
+
+<!-- REFERENCE TO THE STYLESHEET: -->
+<!-- not present here, is prorgammatically arranged -->
+
+<Airplanes>
+  <airplane passengers="8" name="Millenium Falcon">
+    <year>1998</year>
+    <price>150000$</price>
+    <website>privatejets.com</website>
+ </airplane>
+
+  <airplane passengers="12"  name="Stormbringer">
+    <year>2005</year>
+    <price>310000$</price>
+    <website>buyjets.com</website>
+ </airplane>
+
+  <airplane passengers="16"  name="Imperial Starship">
+    <year>2014</year>
+    <price>600000$</price>
+    <website>rentjets.com</website>
+ </airplane>
+
+</Airplanes>
+
